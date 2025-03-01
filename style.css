@@ -1,0 +1,46 @@
+.grp1{  /*class selector*/
+
+    background-color: aquamarine;
+}
+.grp2{  /*class selector*/
+
+    background-color: blueviolet;
+    border: 5px solid white; /* border size and color*/
+    border-style: dashed; /* border eke style eka*/
+    border-radius: 20px; /* content eke depaththa circle wenw*/
+}
+.grp3{  /*class selector*/
+
+    background-color: chartreuse;
+    border: 5px solid white;
+    border-top-style: dashed;/* border eke uda style karanawa*/
+}
+.grp4{  /*class selector*/
+
+    background-color: darkgray;
+}
+.grp5{  /*class selector*/
+
+    background-color: darkorange;
+}
+.grp6{  /*class selector*/
+
+    background-color: cornsilk;
+}
+.grp7{  /*class selector*/
+
+    background-color: chocolate;
+}
+.grp8{  /*class selector*/
+
+    background-color: blue;
+}
+#background{    /*id selector*/
+    background-color: bisque;
+    background-image: url(img/pexels-jesse-r-489622426-30913847.jpg);/*relative path*/
+    /*C:\Users\HM\Desktop\js day 05\img -absolute path */
+    background-size: cover;/* image eka hariyata pack wenawa*/
+    background-attachment: fixed; /* content eka witarak scroll karanawa*/
+    background-repeat: no-repeat; /* background repeat wenne na*/
+    background-position: center; /* image eeka center wenawa
+}
